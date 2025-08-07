@@ -40,7 +40,7 @@ This project uses your **webcam** and **MediaPipe** to detect hand gestures and 
 Clone the repository and install required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-windows-control.git
+git clone https://github.com/agam-katiyar/Hand_Gesture_Controller/blob/main/handGestureController.py
 cd hand-gesture-windows-control
 
 pip install opencv-python mediapipe pycaw pyautogui comtypes numpy
